@@ -2,7 +2,7 @@
 
 Browser-based Alaya vanity address generator
 
-Just type [`https://website`](https://website) to use it ⚡️
+Just type [`https://vanity-alaya.github.io/`](https://vanity-alaya.github.io/) to use it ⚡️
 
 ## What's a vanity address? | 什么是Alaya地址生成器?
 
@@ -12,7 +12,7 @@ Examples: `atp1000000000000000000000000000000000abcde`, or `atp18888888888888888
 
 ## Usage
 
-First of all, visit [`https://website`](https://website)
+First of all, visit [`https://vanity-alaya.github.io/`](https://vanity-alaya.github.io/)
 
 Enter as short prefix/suffix of your choice at the bottom of the page, and click ‘generate’ to start. Your browser will
 generate lots of random addresses until one matches your input.
@@ -54,7 +54,7 @@ The Travis CI bot 🤖 is in charge of building and deploying Vanity-Alaya to Gi
 from source is you want
 
 ```sh
-git clone git@github.com:AlayaFans/Vanity-Alaya.git
+git clone https://github.com/vanity-alaya/vanity-alaya.git
 cd vanity-alaya
 npm i
 npm run build
