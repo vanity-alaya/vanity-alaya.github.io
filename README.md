@@ -33,8 +33,6 @@ There is no database, no server-side code. Everything vanishes when you close yo
 
 Vanity-Alaya uses a cryptographically secure pseudorandom number generator (CSPRNG) to generate addresses.
 
-The keystore file is encrypted with a AES-128-CTR cipher using the BKDF2-SHA256 derivation function with 65536 hashing rounds.
-
 ## Performance
 
 For some reason, the performance of Vanity-Alaya can vary a lot from a browser to another. 
@@ -44,9 +42,7 @@ Using Vanity-Alaya on your phone or tablet will work, but don't expect to reach 
 
 ## Compatibility
 
-
 The keystore file is 100% compatible with ATON.
-
 
 ## Build Vanity-Alaya from source
 
