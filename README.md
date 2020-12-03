@@ -42,9 +42,7 @@ Using Vanity-Alaya on your phone or tablet will work, but don't expect to reach 
 
 ## Compatibility | 兼容性
 
-
-T100% compatible with ATON.
-
+100% compatible with ATON.
 
 ## Build Vanity-Alaya from source | 编译
 
@@ -58,6 +56,6 @@ npm i
 npm run build
 ```
 
-## 赏杯奶茶
+## 赏杯奶茶 💰
 
-`atp100050lk4a9dfuylpmjkk2waf5yza4gwnhtuv2l`
+[`atp100050lk4a9dfuylpmjkk2waf5yza4gwnhtuv2l`](`https://scan.alaya.network/address-detail?address=atp100050lk4a9dfuylpmjkk2waf5yza4gwnhtuv2l`)
