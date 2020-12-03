@@ -56,6 +56,6 @@ npm i
 npm run build
 ```
 
-## 赏杯奶茶 💰
+## 赏杯奶茶
 
-[`atp100050lk4a9dfuylpmjkk2waf5yza4gwnhtuv2l`](`https://scan.alaya.network/address-detail?address=atp100050lk4a9dfuylpmjkk2waf5yza4gwnhtuv2l`)
+[`atp100050lk4a9dfuylpmjkk2waf5yza4gwnhtuv2l`](https://scan.alaya.network/address-detail?address=atp100050lk4a9dfuylpmjkk2waf5yza4gwnhtuv2l)
