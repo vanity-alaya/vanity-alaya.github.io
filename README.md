@@ -2,7 +2,7 @@
 
 Browser-based Alaya vanity address generator
 
-Just type [`https://vanity-alaya.github.io/`](https://vanity-alaya.github.io/) to use it ⚡️
+Just type [`https://vanity-alaya.github.io/`](https://vanity-alaya.github.io/) to use it ⚡️ | [Java版本](https://gitee.com/HAYPO/alaya-good-address)
 
 ## What's a vanity address? | 什么是Alaya地址生成器?
 
